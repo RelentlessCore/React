@@ -9,4 +9,4 @@ const container = document.getElementById('root');
 const root = createRoot(container);
 
 // Render the React App
-root.render(<App />);
+root.render(<App />);  
